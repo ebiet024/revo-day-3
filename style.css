@@ -1,0 +1,40 @@
+ h1{
+    color: #b40c0c;
+ }
+
+ p{
+    color: aqua;
+ }
+
+ .mobil{
+    color: green;
+ }
+
+ #alya{
+    color: blueviolet;
+ }
+
+ body{
+    background: linear-gradient(90deg, blue, yellow);
+ }
+
+ /* .container {
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+ } */
+
+ .container div {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 14sp;
+    color: black;
+    border: 2px solid;
+    background-color: green;
+    border-radius: 10px;
+ }
+
+ 
